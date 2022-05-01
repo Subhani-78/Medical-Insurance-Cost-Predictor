@@ -1,16 +1,13 @@
-# 🦕 Machine Learning Project: Medical Insurance Price Predictor 🦕
+# 🐋 Machine Learning Project: Medical Insurance Price Predictor 🐋
 ## This repository Medical Insurance Price Predictor project based upon Machine Learning. <br>
 ### Project Details <br>
 * Machine Learning Algorithm : <b>Linear Regression</b><br>
-* Dataset Link : https://www.kaggle.com/datasets/mirichoi0218/insurance <br>
-* Target : <b>Insurance Cost</b>
+* Dataset Link : https://raw.githubusercontent.com/amankharwal/Website-data/master/advertising.csv <br>
+* Target : <b>Units Sold</b>
 * Feature List:
-  1. Age
-  2. Sex
-  3. BMI
-  4. Children
-  5. Smoker
-  6. Region
+  1. TV Advertisement
+  2. Radio Advertisement
+  3. Newspaper Advertisement
 
 ## Previous 🦉
 #### <a href="https://github.com/Subhani-78/Beginner-Python-Projects">Python Projects for Beginners 🐍</a>
